@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-06-22T08:28:44-00:00</lastmod>
+<lastmod>2017-06-28T20:33:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-06-22T08:28:44-00:00</lastmod>
+<lastmod>2017-06-28T20:33:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-06-22T08:28:44-00:00</lastmod>
+<lastmod>2017-06-28T20:33:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-06-22T08:28:44-00:00</lastmod>
+<lastmod>2017-06-28T20:33:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,6 +47,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./di-shi-qi-zhou-zuo-ye.html</loc>
+<lastmod>2017-06-08T10:55:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./xing-zou-ji-gou.html</loc>
 <lastmod>2017-06-08T10:55:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -137,15 +144,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/seat-table.html</loc>
-<lastmod>2017-06-08T10:55:00+08:06</lastmod>
+<loc>./tag/ppt.html</loc>
+<lastmod>2017-02-25T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/ppt.html</loc>
-<lastmod>2017-02-25T12:08:00+08:06</lastmod>
+<loc>./tag/seat-table.html</loc>
+<lastmod>2017-06-08T10:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
